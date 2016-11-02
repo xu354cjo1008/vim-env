@@ -3,3 +3,5 @@ colorscheme molokai
 set clipboard=unnamed
 set clipboard=unnamedplus
 set nospell
+set encoding=utf8
+setglobal fileencoding=utf-8
