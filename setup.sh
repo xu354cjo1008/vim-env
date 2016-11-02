@@ -3,3 +3,4 @@ rm spf13-vim.sh
 mv .vimrc.local ~/
 mv .vimrc.before.local ~/
 mv .vimrc.bundles.local ~/
+vim +BundleInstall! +BundleClean +q
