@@ -4,3 +4,4 @@ mv .vimrc.local ~/
 mv .vimrc.before.local ~/
 mv .vimrc.bundles.local ~/
 vim +BundleInstall! +BundleClean +q
+cd ~/.vim/bundle/YouCompleteMe && ./install.py --clang-completer
