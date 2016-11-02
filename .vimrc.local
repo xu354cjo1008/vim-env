@@ -1,0 +1,5 @@
+cs add cscope.out
+colorscheme molokai
+set clipboard=unnamed
+set clipboard=unnamedplus
+set nospell
